@@ -1,0 +1,1 @@
+Neural network based on the Iris data set. Created as part of data science course
